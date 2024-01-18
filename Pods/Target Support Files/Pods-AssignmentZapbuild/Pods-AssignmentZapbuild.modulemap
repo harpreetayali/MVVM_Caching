@@ -1,0 +1,6 @@
+framework module Pods_AssignmentZapbuild {
+  umbrella header "Pods-AssignmentZapbuild-umbrella.h"
+
+  export *
+  module * { export * }
+}

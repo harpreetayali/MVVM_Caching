@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_AssignmentZapbuild_AssignmentZapbuildUITests : NSObject
+@end
+@implementation PodsDummy_Pods_AssignmentZapbuild_AssignmentZapbuildUITests
+@end
